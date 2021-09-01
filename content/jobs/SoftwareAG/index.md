@@ -1,10 +1,10 @@
 ---
 date: '2017-12-21'
-title: 'UI Engineer Co-op'
-company: 'Apple'
-location: 'Cupertino, CA'
+title: 'Working Student R&D University Relations'
+company: 'Software AG'
+location: 'Darmstadt, DE'
 range: 'July - December 2017'
-url: 'https://www.apple.com/music/'
+url: 'https://www.softwareag.com/en_corporate.html'
 ---
 
 - Developed and shipped highly interactive web applications for Apple Music using Ember.js
