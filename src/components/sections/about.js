@@ -136,6 +136,16 @@ const About = () => {
         <StyledText>
           <div>
             <p>
+              As many people born in the 90s, my association with the realm of computers has been
+              for nearly two decades. However, unlike most, my aptitude for computers, technology,
+              automation, and relationships between various aspects of computers is extremely high,
+              as well as my fascination. In the past ten years, there have been numerous instances
+              that have driven me to pursue a career in the glorious field of computer science. With
+              that in mind, my career goal is to equip and arm myself with the technical competence
+              related to the changing industry so I can provide the best and efficient solutions,
+              which can add value and make a difference in the way people live.
+            </p>
+            <p>
               Hello! My name is Brittany and I enjoy creating things that live on the internet. My
               interest in web development started back in 2012 when I decided to try editing custom
               Tumblr themes — turns out hacking together a custom reblog button taught me a lot
