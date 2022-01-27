@@ -2,8 +2,9 @@
 date: '3'
 title: 'Fall Detection System Using Sensors Embedded In Smartphones'
 cover: './demo.png'
-external: 'https://spotify-profile-v2.herokuapp.com/'
-cta: 'https://www.newline.co/courses/build-a-spotify-connected-app'
+github: 'https://github.com/bhatvineeth/FallDetectionSystem'
+cta: 'http://dx.doi.org/10.13140/RG.2.2.31234.40649'
+external: 'http://dx.doi.org/10.13140/RG.2.2.31234.40649'
 tech:
   - Sensors
   - Android

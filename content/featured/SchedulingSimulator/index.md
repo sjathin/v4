@@ -3,7 +3,8 @@ date: '2'
 title: 'Scheduling Simulator'
 cover: './demo.png'
 github: 'https://github.com/sjathin/SchedulingSimulation'
-external: 'https://spotify-profile.herokuapp.com/'
+cta: 'http://dx.doi.org/10.13140/RG.2.2.28374.16960'
+external: 'http://dx.doi.org/10.13140/RG.2.2.28374.16960'
 tech:
   - Real-time algorithms
   - Django
