@@ -1,6 +1,6 @@
 ---
 date: '2022-03-01'
-title: 'Master student Computer Scientist'
+title: 'Master Thesis student'
 company: 'German Aerospace Center (DLR)'
 location: 'Braunschweig, DE'
 range: 'March 2022 - August 2022'
