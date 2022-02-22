@@ -165,7 +165,7 @@ const About = () => {
               which can add value and make a difference in the way people live.
             </p>
 
-            <p>Here are a few technologies I’ve been working with recently:</p>
+            <p>Here are a few technologies that I’m proficient in:</p>
 
             <p>
               <ul className="skills-list">
@@ -173,7 +173,7 @@ const About = () => {
               </ul>
             </p>
 
-            <p>Here are a few technologies I’ve been working with recently:</p>
+            <p>Here are a few technologies that I’m familiar with:</p>
 
             <p>
               <ul className="skills-list">

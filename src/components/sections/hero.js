@@ -64,8 +64,8 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I like building things. Currently pursuing my master's in High Integrity Systems, at the
-        Frankfurt University Of Applied Sciences
+        Currently pursuing my master's in High Integrity Systems, at the Frankfurt University Of
+        Applied Sciences and conducting my thesis at the German Aerospace Center.
       </p>
     </>
   );
