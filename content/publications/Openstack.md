@@ -1,15 +1,9 @@
 ---
 date: '2016-11-01'
 title: 'Deployment of a Private/Hybrid Cloud IaaS OpenStack'
-github: ''
-external: ''
-android: ''
+external: 'http://dx.doi.org/10.13140/RG.2.2.15989.91365'
 tech:
-  - Cordova
-  - Backbone
-  - Marionette
+  - OpenStack
 company: 'Starry'
 showInProjects: true
 ---
-
-Starry Station android app feature that provided users with the ability to easily filter content, pause the internet, and even create custom rules for blocking apps like Facebook and Twitter right from their phones.

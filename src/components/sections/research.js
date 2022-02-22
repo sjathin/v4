@@ -402,7 +402,7 @@ const Research = () => {
                       )}
                       {external && !cta && (
                         <a href={external} aria-label="External Link" className="external">
-                          <Icon name="External" />
+                          <Icon name="ResearchGate" />
                         </a>
                       )}
                     </div>

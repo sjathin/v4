@@ -1,12 +1,10 @@
 ---
 date: '2016-08-01'
 title: 'Fall Detection System Using Sensors Embedded In Smartphones'
-github: ''
-external: ''
+github: 'https://github.com/bhatvineeth/FallDetectionSystem'
+external: 'http://dx.doi.org/10.13140/RG.2.2.31234.40649'
 tech:
-  - React
-  - CSS
+  - Sensors
+  - Android
 showInProjects: true
 ---
-
-Online version of my 2016 resume made for fun. I was interested in learning React.js, so I found a simple tutorial and it spun into a weekend project.
