@@ -7,16 +7,20 @@ module.exports = {
       url: 'https://github.com/sjathin',
     },
     {
-      name: 'Instagram',
-      url: 'https://www.instagram.com/thejsreenivas/',
-    },
-    {
       name: 'Linkedin',
       url: 'https://www.linkedin.com/in/jathin-sreenivas/',
     },
     {
       name: 'ResearchGate',
       url: 'https://www.researchgate.net/profile/Jathin_Sreenivas',
+    },
+    {
+      name: 'Instagram',
+      url: 'https://www.instagram.com/thejsreenivas/',
+    },
+    {
+      name: 'Twitter',
+      url: 'https://twitter.com/sjathin95',
     },
   ],
 
