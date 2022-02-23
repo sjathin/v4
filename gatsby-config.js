@@ -3,9 +3,9 @@ const config = require('./src/config');
 module.exports = {
   siteMetadata: {
     title: 'Jathin Sreenivas',
-    description: 'Jathin Sreenivas is a software engineer',
-    siteUrl: 'https://jathin-sreenivas.netlify.app/', // No trailing slash allowed!
-    image: '/og.png', // Path to your image you placed in the 'static' folder
+    description: 'My Portfolio',
+    siteUrl: 'https://jathinsreenivas.netlify.app/', // No trailing slash allowed!
+    image: '/pic.png', // Path to your image you placed in the 'static' folder
     twitterUsername: 'sjathin95',
   },
   plugins: [
