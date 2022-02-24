@@ -3,7 +3,7 @@ date: '2021-08-01'
 title: 'SDE Intern'
 company: 'Amazon'
 location: 'Berlin, DE'
-range: 'March - August 2021'
+range: 'March 2021 - August 2021'
 url: 'https://www.amazon.com/'
 ---
 
