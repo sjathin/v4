@@ -14,4 +14,4 @@ tech:
   - Docker
 ---
 
-The research project explores the potential of Hyperledger Fabric in the health care industry. The majority of EHR is in shortage of trustable and reliable health data sharing mechanisms. Research explorers whether blockchain has the potential to improve health care by putting the patient at the center of the system and enhancing health data protection and interoperability.
+The research project explores the potential of Hyperledger Fabric in the health care industry. The current solution in healthcare for storing and sharing medical records is the EHR which is highly sensitive. The majority of EHR data sharing is still done through mail because shortage of trustable and reliable health data sharing mechanism. This leads to significant delays in the patient's treatment EHR. Blockchain has the potential to improve health care by putting the patient at the center of the system and enhancing health data protection and interoperability.
