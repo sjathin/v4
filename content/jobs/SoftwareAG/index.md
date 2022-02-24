@@ -1,9 +1,9 @@
 ---
-date: '2017-12-21'
+date: '2021-01-01'
 title: 'Working Student R&D University Relations'
 company: 'Software AG'
 location: 'Darmstadt, DE'
-range: 'July - December 2017'
+range: 'March 2020 - January 2021'
 url: 'https://www.softwareag.com/en_corporate.html'
 ---
 

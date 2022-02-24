@@ -1,9 +1,9 @@
 ---
-date: '2015-12-21'
+date: '2019-07-01'
 title: 'Senior Software Engineer'
 company: 'NTT Data FA Insurance Systems'
 location: 'Bengaluru, IN'
-range: 'July - December 2015'
+range: 'September 2016 - July 2019'
 url: 'http://www.nttdata-ndfs.com/'
 ---
 
