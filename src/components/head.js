@@ -46,6 +46,7 @@ const Head = ({ title, description, image }) => {
 
       <meta name="description" content={seo.description} />
       <meta name="image" content={seo.image} />
+      <meta name="author" content={seo.title} />
 
       <meta property="og:title" content={seo.title} />
       <meta property="og:description" content={seo.description} />

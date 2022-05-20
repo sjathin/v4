@@ -5,7 +5,7 @@ module.exports = {
     title: 'Jathin Sreenivas',
     description: 'My Portfolio',
     siteUrl: 'https://jathinsreenivas.netlify.app/', // No trailing slash allowed!
-    image: '/pic.png', // Path to your image you placed in the 'static' folder
+    image: '/img.png', // Path to your image you placed in the 'static' folder
     twitterUsername: 'sjathin95',
   },
   plugins: [
