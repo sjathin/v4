@@ -127,8 +127,13 @@ const About = () => {
   }, []);
 
   const proficientSkills = [
+    'Algorithms',
+    'Data Structures',
+    'OOP',
     'Java',
+    'Spring',
     'SQL',
+    'DBMS',
     'Python',
     'Git',
     'REST',
@@ -136,15 +141,21 @@ const About = () => {
     'Bash/Shell',
     'NodeJS',
     'Linux',
+    'Real-time',
+    'Design Patterns',
+    'Jekyll',
+    'Flask',
+    'Fast API',
   ];
   const familiarSkills = [
+    'Simulation',
     'Angular',
-    'Spring',
     'C/C++',
     'Docker',
     'Blockchain',
     'Django',
     'Sensors',
+    'React',
   ];
 
   return (

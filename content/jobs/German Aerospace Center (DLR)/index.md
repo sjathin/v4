@@ -8,4 +8,5 @@ url: 'https://www.dlr.de/EN/Home/home_node.html'
 ---
 
 - Thesis on the topic - "Response Time Analysis of Tasking Framework Task Chains"
-- Creating execution models and analyzing their response time that runs on a multi-core processor for subtasks with different priorities, and sporadic tasks.
+- Response Time analysis of Real Time systems modelled as a set of parallel DAG tasks executing on a global multi-core processor, where each task are periodic/sporadic and executed based on fixed priority scheduling using a newly created execution model. Implemented in python for a system in the satellite.
+- An improvement to the previous research, where only periodic tasks and executed in FCFS algorithm were considered.

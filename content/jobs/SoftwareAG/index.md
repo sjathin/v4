@@ -7,6 +7,5 @@ range: 'March 2020 - January 2021'
 url: 'https://www.softwareag.com/en_corporate.html'
 ---
 
-- Developed multiple RESTful web services for handling the education packages in the interface server to make the whole process more efficient.
-- Responsible for the development of the Tech Community website for the university relation department, built using Spring boot, Angular JS and keycloak.
-- University Relations Interface Server related administrative tasks including the handling of errors on the production system.
+- Optimized RESTful services (Java) to automate handling of errors and and reduced the amount of production errors by 30%.
+- Designed and implemented of a new university relation website, built using REST (Java), Spring boot, Angular and keycloak.

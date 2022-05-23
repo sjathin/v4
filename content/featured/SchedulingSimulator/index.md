@@ -12,4 +12,4 @@ tech:
   - Django
 ---
 
-Understanding the working of scheduling algorithms provides us with a knowledge of how to analyse the scheduling of processes, resource utilization, and performance in real-time applications. A simulator enables us to visualize these characteristics, working, and behaviour of scheduling algorithms.
+Understanding the working of scheduling algorithms provides us with a knowledge of how to analyse the scheduling of processes, resource utilization, and performance in real-time applications. A simulator enables us to visualize these characteristics, working, and behaviour of scheduling algorithms. Used by my Professors and 1000+ students at the university to understand the working of the algorithms.
