@@ -64,10 +64,7 @@ const Hero = () => {
   const three = <h3 className="big-heading">A Software Engineer.</h3>;
   const four = (
     <>
-      <p>
-        Currently pursuing my master's in High Integrity Systems, at the Frankfurt University Of
-        Applied Sciences and conducting my thesis at the German Aerospace Center.
-      </p>
+      <p>SDE @ Amazon | M.Sc. in High Integrity Systems</p>
     </>
   );
 

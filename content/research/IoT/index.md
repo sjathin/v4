@@ -1,5 +1,5 @@
 ---
-date: '2'
+date: '3'
 title: 'A Survey on Bluetooth 5.0 for IoT'
 cover: './img.png'
 ResearchGate: 'http://dx.doi.org/10.13140/RG.2.2.14312.19203'

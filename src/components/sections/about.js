@@ -165,14 +165,20 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              As many people born in the 90s, my association with the realm of computers has been
-              for nearly two decades. However, unlike most, my aptitude for computers, technology,
-              automation, and relationships between various aspects of computers is extremely high,
-              as well as my fascination. In the past ten years, there have been numerous instances
-              that have driven me to pursue a career in the glorious field of computer science. With
-              that in mind, my career goal is to equip and arm myself with the technical competence
-              related to the changing industry so I can provide the best and efficient solutions,
-              which can add value and make a difference in the way people live.
+              As a passionate software engineer with a deep-rooted interest in technology,
+              automation, and problem-solving, I have dedicated over a decade to honing my technical
+              expertise. From my early fascination with computers to my career in software
+              development, I have consistently focused on mastering the evolving landscape of
+              technology. With a diverse experience spanning cloud-native applications,
+              microservices, real-time systems, and insurance domain software, I have built
+              scalable, reliable, and efficient solutions that impact millions of users worldwide.
+            </p>
+            <p>
+              I am driven by the desire to leverage my skills in backend development, cloud
+              services, and operational excellence to create impactful systems that drive business
+              success and customer satisfaction. As I continue to grow professionally, my goal is to
+              remain at the forefront of technological innovation, solving complex problems, and
+              delivering high-quality solutions in an ever-changing industry.
             </p>
 
             <p>Here are a few technologies that I’m proficient in:</p>

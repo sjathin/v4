@@ -1,5 +1,5 @@
 ---
-date: '1'
+date: '2'
 title: 'Scheduling Simulator'
 cover: './img.png'
 github: 'https://github.com/sjathin/SchedulingSimulation'
